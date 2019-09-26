@@ -2,4 +2,4 @@
 
 ## Recipes
 
-* [Purin](purin.html)
+* [Purin](purin)
